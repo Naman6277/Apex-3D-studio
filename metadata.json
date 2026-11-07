@@ -1,0 +1,6 @@
+{
+  "name": "Apex 3D Heating & Emergency Plumbing",
+  "description": "Ultra-modern, high-converting 3D prototype website for 24/7 local emergency heating, cooling, and plumbing services with fast 30-minute arrival and transparent pricing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
